@@ -1,0 +1,2 @@
+# ntp
+c++ aplikacija 
